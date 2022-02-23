@@ -1,1 +1,11 @@
-
+name,score,level
+toha,13,3
+YaGlavny,13,3
+Oxi,12,3
+voin01,12,3
+plajer_02,12,3
+player_01,12,3
+Anna_,12,3
+Dmytro,12,3
+Kristina,12,3
+pl,8,3
